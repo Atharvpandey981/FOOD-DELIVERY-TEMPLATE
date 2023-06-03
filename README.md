@@ -6,7 +6,6 @@
 * I took the design from a youtube channel called CodeWithHarry's video , here's the video <https://youtu.be/8KVrdL0VcAk> .
 ## `Technologies Used`
 * I used only HTML,CSS.
- 
 ### `Contact`
 email: <atharvpandey981@gmail.com>
 ### THANKS FOR VISITING
