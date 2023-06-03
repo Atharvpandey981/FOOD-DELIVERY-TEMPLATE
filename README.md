@@ -4,9 +4,9 @@
 ## `About`
 * This is my first ever frontend project.
 * I took the design from a youtube channel called CodeWithHarry's video , here's the video <https://youtu.be/8KVrdL0VcAk> .
-## `TECHNOLOGIES USED`
+## `Technologies Used`
 * I used only HTML,CSS.
  
-### `CONTACT`
+### `Contact`
 email: <atharvpandey981@gmail.com>
 ### THANKS FOR VISITING
