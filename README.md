@@ -1,6 +1,6 @@
 # FOOD-DELIVERY-TEMPLATE
 ## `Time`
-* Today is 25/3/2023 , when iam uploading this project.
+* Today is 22/4/2023 , when iam uploading this project.
 ## `About`
 * This is my first ever frontend project.
 * I took the design from a youtube channel called CodeWithHarry's video , here's the video <https://youtu.be/8KVrdL0VcAk> .
